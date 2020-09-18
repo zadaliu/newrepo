@@ -1,0 +1,359 @@
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/HJPE/!svn/ver/1898/mall-admin-web/src/api
+END
+menu.js
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/HJPE/!svn/ver/236/mall-admin-web/src/api/menu.js
+END
+userLevel.js
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/HJPE/!svn/ver/302/mall-admin-web/src/api/userLevel.js
+END
+newSubjectCategory.js
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/HJPE/!svn/ver/1871/mall-admin-web/src/api/newSubjectCategory.js
+END
+login.js
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/HJPE/!svn/ver/236/mall-admin-web/src/api/login.js
+END
+orderSetting.js
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/HJPE/!svn/ver/9/mall-admin-web/src/api/orderSetting.js
+END
+newSubject.js
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/HJPE/!svn/ver/1871/mall-admin-web/src/api/newSubject.js
+END
+order.js
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/HJPE/!svn/ver/3046/mall-admin-web/src/api/order.js
+END
+permissiondetail.js
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/HJPE/!svn/ver/23/mall-admin-web/src/api/permissiondetail.js
+END
+companyAddress.js
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/HJPE/!svn/ver/9/mall-admin-web/src/api/companyAddress.js
+END
+productCate.js
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/HJPE/!svn/ver/9/mall-admin-web/src/api/productCate.js
+END
+umsPermission.js
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/HJPE/!svn/ver/236/mall-admin-web/src/api/umsPermission.js
+END
+product.js
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/HJPE/!svn/ver/9/mall-admin-web/src/api/product.js
+END
+retailerManage.js
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/HJPE/!svn/ver/3640/mall-admin-web/src/api/retailerManage.js
+END
+title.js
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/HJPE/!svn/ver/44/mall-admin-web/src/api/title.js
+END
+memberStore.js
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/HJPE/!svn/ver/44/mall-admin-web/src/api/memberStore.js
+END
+couponHistory.js
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/HJPE/!svn/ver/9/mall-admin-web/src/api/couponHistory.js
+END
+resourceCategory.js
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/HJPE/!svn/ver/236/mall-admin-web/src/api/resourceCategory.js
+END
+seckill.js
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/HJPE/!svn/ver/562/mall-admin-web/src/api/seckill.js
+END
+resource.js
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/HJPE/!svn/ver/236/mall-admin-web/src/api/resource.js
+END
+returnReason.js
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/HJPE/!svn/ver/9/mall-admin-web/src/api/returnReason.js
+END
+discount.js
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/HJPE/!svn/ver/562/mall-admin-web/src/api/discount.js
+END
+newProduct.js
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/HJPE/!svn/ver/9/mall-admin-web/src/api/newProduct.js
+END
+hotProduct.js
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/HJPE/!svn/ver/9/mall-admin-web/src/api/hotProduct.js
+END
+transport.js
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/HJPE/!svn/ver/650/mall-admin-web/src/api/transport.js
+END
+homeBrand.js
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/HJPE/!svn/ver/9/mall-admin-web/src/api/homeBrand.js
+END
+memberLevel.js
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/HJPE/!svn/ver/9/mall-admin-web/src/api/memberLevel.js
+END
+homeAdvertise.js
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/HJPE/!svn/ver/14/mall-admin-web/src/api/homeAdvertise.js
+END
+retailerLevel.js
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/HJPE/!svn/ver/3056/mall-admin-web/src/api/retailerLevel.js
+END
+prefrenceArea.js
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/HJPE/!svn/ver/9/mall-admin-web/src/api/prefrenceArea.js
+END
+department.js
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/HJPE/!svn/ver/14/mall-admin-web/src/api/department.js
+END
+oss.js
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/HJPE/!svn/ver/9/mall-admin-web/src/api/oss.js
+END
+couponProduct.js
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/HJPE/!svn/ver/766/mall-admin-web/src/api/couponProduct.js
+END
+banner.js
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/HJPE/!svn/ver/1762/mall-admin-web/src/api/banner.js
+END
+skuStock.js
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/HJPE/!svn/ver/9/mall-admin-web/src/api/skuStock.js
+END
+productAttrCate.js
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/HJPE/!svn/ver/9/mall-admin-web/src/api/productAttrCate.js
+END
+homeSubject.js
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/HJPE/!svn/ver/9/mall-admin-web/src/api/homeSubject.js
+END
+productAttr.js
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/HJPE/!svn/ver/9/mall-admin-web/src/api/productAttr.js
+END
+newcoupon.js
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/HJPE/!svn/ver/2532/mall-admin-web/src/api/newcoupon.js
+END
+dom.js
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/HJPE/!svn/ver/1762/mall-admin-web/src/api/dom.js
+END
+coupongroup.js
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/HJPE/!svn/ver/203/mall-admin-web/src/api/coupongroup.js
+END
+message.js
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/HJPE/!svn/ver/203/mall-admin-web/src/api/message.js
+END
+returnApply.js
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/HJPE/!svn/ver/9/mall-admin-web/src/api/returnApply.js
+END
+brand.js
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/HJPE/!svn/ver/581/mall-admin-web/src/api/brand.js
+END
+freight.js
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/HJPE/!svn/ver/196/mall-admin-web/src/api/freight.js
+END
+home.js
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/HJPE/!svn/ver/3040/mall-admin-web/src/api/home.js
+END
+assemble.js
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/HJPE/!svn/ver/551/mall-admin-web/src/api/assemble.js
+END
+accountCash.js
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/HJPE/!svn/ver/3319/mall-admin-web/src/api/accountCash.js
+END
+fontMenu.js
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/HJPE/!svn/ver/1582/mall-admin-web/src/api/fontMenu.js
+END
+flashProductRelation.js
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/HJPE/!svn/ver/9/mall-admin-web/src/api/flashProductRelation.js
+END
+tarnslate.js
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/HJPE/!svn/ver/3163/mall-admin-web/src/api/tarnslate.js
+END
+flash.js
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/HJPE/!svn/ver/9/mall-admin-web/src/api/flash.js
+END
+FinanceKuaiShang.js
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/HJPE/!svn/ver/3315/mall-admin-web/src/api/FinanceKuaiShang.js
+END
+subject.js
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/HJPE/!svn/ver/9/mall-admin-web/src/api/subject.js
+END
+logo.js
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/HJPE/!svn/ver/1762/mall-admin-web/src/api/logo.js
+END
+role.js
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/HJPE/!svn/ver/236/mall-admin-web/src/api/role.js
+END
+flashSession.js
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/HJPE/!svn/ver/9/mall-admin-web/src/api/flashSession.js
+END
+weChatBanner.js
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/HJPE/!svn/ver/1898/mall-admin-web/src/api/weChatBanner.js
+END
+coupon.js
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/HJPE/!svn/ver/9/mall-admin-web/src/api/coupon.js
+END
+supplier.js
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/HJPE/!svn/ver/3201/mall-admin-web/src/api/supplier.js
+END

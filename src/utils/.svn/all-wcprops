@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/HJPE/!svn/ver/9/mall-admin-web/src/utils
+END
+index.js
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/HJPE/!svn/ver/344/mall-admin-web/src/utils/index.js
+END
+request.js
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/HJPE/!svn/ver/3201/mall-admin-web/src/utils/request.js
+END
+get-page-title.js
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/HJPE/!svn/ver/236/mall-admin-web/src/utils/get-page-title.js
+END
+validate.js
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/HJPE/!svn/ver/3517/mall-admin-web/src/utils/validate.js
+END
+support.js
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/HJPE/!svn/ver/9/mall-admin-web/src/utils/support.js
+END
+date.js
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/HJPE/!svn/ver/9/mall-admin-web/src/utils/date.js
+END
+auth.js
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/HJPE/!svn/ver/9/mall-admin-web/src/utils/auth.js
+END

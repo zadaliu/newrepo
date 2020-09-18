@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/HJPE/!svn/ver/9/mall-admin-web/src/router
+END
+index.js
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/HJPE/!svn/ver/3640/mall-admin-web/src/router/index.js
+END
+import-development.js
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/HJPE/!svn/ver/236/mall-admin-web/src/router/import-development.js
+END
+import-production.js
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/HJPE/!svn/ver/236/mall-admin-web/src/router/import-production.js
+END
